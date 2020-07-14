@@ -2,6 +2,8 @@
 
 A full stack web app to track prices on products you want on Amazon. The front end component is built with Redux and React. The back end component is built with Node/Express.
 
+Try it [here](https://amazon-pricetracker.herokuapp.com/)
+
 ## Features
 
 ### Authentication
@@ -16,7 +18,7 @@ A full stack web app to track prices on products you want on Amazon. The front e
 
 ![Add image](/screenshot/add.png)
 
-![Add2 image](/screenshot/add2.png)
+![Add2 image](</screenshot/add(2).png>)
 
 ### Price update
 
