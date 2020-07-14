@@ -1,0 +1,10 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const FETCH_ITEMS = "FETCH_ITEMS";
+export const FETCH_ITEM = "FETCH_ITEM";
+export const CREATE_ITEM = "CREATE_ITEM";
+export const EDIT_ITEM = "EDIT_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const GET_DETAILS = "GET_DETAILS";
+export const DELETE_DETAILS = "DELETE_DETAILS";
